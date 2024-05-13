@@ -35,8 +35,8 @@ let booleanValue = Boolean(isLoggedIn)
 let nonStringVariable = true
 
 let stringVariable = String(nonStringVariable)
-console.log(stringVariable);
-console.log(typeof stringVariable)
+// console.log(stringVariable);
+// console.log(typeof stringVariable)
 
 /**
  * 23 -> '23'
@@ -46,3 +46,6 @@ console.log(typeof stringVariable)
  *  false -> 'false'
  * true -> 'string'
  */
+
+/** *************************************** OPERATIONS ********************************** */
+
